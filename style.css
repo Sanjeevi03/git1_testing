@@ -1,3 +1,9 @@
 h2{
    color: red;
 }
+body
+{  width: 500px;
+   height: 500px;
+   border: 3px solid black;
+   margin: auto;
+}
